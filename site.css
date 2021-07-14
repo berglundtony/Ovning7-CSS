@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(37, 35, 35);
+    color:#ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#link-container{
+    text-align: center;
+}
+.link{
+    padding: 15px 30px 55px 30px;
+    display: inline-block;
+  
+}
+
+a{
+    color:cadetblue;
+    text-decoration: none;
+}
+a:hover{
+    color:darkcyan;
+}
+
+footer{
+    height: 50px;
+    background-color: dimgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.master{
+    float:left;
+    padding: 15px 30px 5px 30px;
+}
+.assignment{
+    float: right;
+    padding: 15px 30px 5px 0;
+}
+
